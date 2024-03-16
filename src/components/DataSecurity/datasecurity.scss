@@ -1,0 +1,41 @@
+.headingDatasecurity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 30;
+  position: absolute;
+  top: 204vh;
+  left: 44.5vh;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: white;
+
+  .dataSecurityandclass {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+}
+
+.lockTop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 30;
+  position: absolute;
+  top: 221vh;
+  left: 54vh;
+
+  .lockBottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 30;
+    position: absolute;
+    top: 226vh;
+    left: 52.6vh;
+  }
+}
+
+.videoDataSecurity {
+  width: 100%;
+}
